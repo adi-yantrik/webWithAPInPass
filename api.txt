@@ -1,0 +1,57 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+        {
+            "author": "Sudip Poudel",
+            "title": "Day-3",
+            "date": "11-07-2023",
+            "urlToImage": "https://shorturl.at/tBZ09",
+            "li_0" : "maths graph revision",
+            "li_1" : "create proper API concept",
+            "li_2" : "exercise",
+            "li_3" : "read 15 pages",
+            "li_4" : "speak english 45 min",
+            "li_5" : "jquery 30 min",
+            "li_6" : "bootstrap 30 min",
+            "li_7" : "english 30 min",
+            "li_8" : "learn some VSC shortcuts 15 min",
+            "li_9" : "wim hof + meditation"
+            
+        },
+        {
+            "author": "Sudip Poudel",
+            "title": "Day-2",
+            "date": "11-06-2023",
+            "urlToImage": "https://shorturl.at/bdyDI",
+            "li_0" : "exercise",
+            "li_1" : "read 15 pages",
+            "li_2" : "maths graph 45 min",
+            "li_3" : "jquery and bootstrap 30min",
+            "li_4" : "monkeytype 30 min",
+            "li_5" : "code anything 1 hrs",
+            "li_6" : "fill up EDV form",
+            "li_7" : "do wim hof exercise and meditate",
+            "li_8" : "learn english 30 min",
+            "li_9" : "speak english 1 hrs"
+            
+        },
+                {
+            "author": "Sudip Poudel",
+            "title": "Day-1",
+            "date": "11-05-2023",
+            "urlToImage": "https://techcrunch.com/2023/10/03/in_latest_cruise_incident_video_shows_pedestrian_struck_by_human_driven_car_then_run_over_by_robotaxi/",
+            "li_0" : "learn jquery 30min",
+            "li_1" : "take a shower",
+            "li_2" : "clean your room",
+            "li_3" : "wash shoes",
+            "li_4" : "exercise",
+            "li_5" : "complete tense video",
+            "li_6" : "bootstrap 30min",
+            "li_7" : "maths graph 45min",
+            "li_8" : "buy chocolate",
+            "li_9" : "meditation"
+    
+        }
+    ]    
+}
